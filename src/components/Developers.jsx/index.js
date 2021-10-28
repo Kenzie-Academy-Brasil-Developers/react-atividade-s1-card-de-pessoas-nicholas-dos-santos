@@ -2,7 +2,7 @@ import "./style.css";
 
 function PersonCard({ name, age, country }) {
   return (
-    <div class="user-card">
+    <div className="user-card">
       <span>
         <h2>Dev: {name}</h2>
         <h2>Idade: {age}</h2>

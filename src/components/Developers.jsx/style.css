@@ -1,5 +1,10 @@
 .user-card {
-  border: 2px solid green;
+  border: 2px solid rgb(0, 124, 128);
+  background-color: rgb(28, 28, 165);
 
   width: 300px;
+}
+
+.user-card:hover {
+  cursor: pointer;
 }
